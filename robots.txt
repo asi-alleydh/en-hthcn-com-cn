@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asi-alleydh.github.io/en-hthcn-com-cn/sitemap.xml
